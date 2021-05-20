@@ -1,0 +1,5 @@
+Key:project-reskill
+
+InfyShop:3349842e7e859af968786a70e228b3ce2d394cfa
+
+mvn clean package sonar:sonar -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=project-reskill -Dsonar.login=3349842e7e859af968786a70e228b3ce2d394cfa
